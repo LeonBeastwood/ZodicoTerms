@@ -88,4 +88,10 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## 9. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or data practices, please contact us at:
+Leonids Dislovojs SIA RODLEN Ģenerāļa Baloža iela 44D Liepāja, LV-3402, Latvia Email: tech@rodlen.com
+
+
+---
+
+**By using our App, you acknowledge that you have read and understand this Privacy Policy.**  
 
