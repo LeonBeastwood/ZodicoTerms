@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** (Date of publication)
+**Last Updated:** (05.01.2025)
 
 Thank you for choosing our application (“App”). We take the protection of your personal data seriously. Below is our policy regarding the collection, use, and disclosure of your information when using this App.
 
