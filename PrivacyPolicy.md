@@ -39,7 +39,6 @@ We **do not sell** your personal data. We use processors to operate the App:
 - **OpenAI**: AI assistance, moderation, translations.  
 - **Google Firebase**: authentication, database/storage, analytics, crash reporting.  
 - **Apple/Google**: in‑app purchases, receipts.  
-- **[Add if used]** RevenueCat / Sentry / Cloud hosting providers.  
 Processors act under contracts and only as described here.
 
 ## 8. International Transfers
