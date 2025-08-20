@@ -1,185 +1,76 @@
-# Privacy Policy
+# Zodico — Privacy Policy
 
-**Last Updated:** July 9, 2025
+*Last Updated: **August 20, 2025***
 
-Zodico – *Your AI Oracle Friend* (the **App**) is provided by **LBeastwood** ("**we**", "**us**"). This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use the App. By installing or using Zodico, you agree to the practices described below.
-
-## Table of Contents
-
-* [1. Data Controller & Contact](#1-data-controller--contact)
-* [2. Scope & Acceptance](#2-scope--acceptance)
-* [3. Age Restrictions](#3-age-restrictions)
-* [4. Information We Collect](#4-information-we-collect)
-
-  * [4.1 Profile & Registration Data](#41-profile--registration-data)
-  * [4.2 User Content & AI Inputs](#42-user-content--ai-inputs)
-  * [4.3 Usage & Analytics Data](#43-usage--analytics-data)
-  * [4.4 Device & Technical Data](#44-device--technical-data)
-* [5. How We Use Your Data](#5-how-we-use-your-data)
-* [6. Legal Bases for Processing (EU/GDPR)](#6-legal-bases-for-processing-eugdpr)
-* [7. Sharing & Disclosure](#7-sharing--disclosure)
-* [8. Advertisements & Tracking](#8-advertisements--tracking)
-* [9. In-App Purchases & Billing Data](#9-in-app-purchases--billing-data)
-* [10. Data Retention & Deletion](#10-data-retention--deletion)
-* [11. Your Privacy Rights](#11-your-privacy-rights)
-
-  * [11.1 EU Data Subject Rights](#111-eu-data-subject-rights)
-  * [11.2 California Consumer Rights (CCPA/CPRA)](#112-california-consumer-rights-ccpacpra)
-* [12. Children’s Privacy](#12-childrens-privacy)
-* [13. International Data Transfers](#13-international-data-transfers)
-* [14. Security Measures](#14-security-measures)
-* [15. Changes to This Policy](#15-changes-to-this-policy)
-* [16. Contact Information](#16-contact-information)
+This Privacy Policy explains how **LBeastwood (SIA RODLEN)** ("**we**") collects, uses, and protects your data when you use **Zodico** (the “**App**”). By using Zodico, you agree to this Policy.
 
 ## 1. Data Controller & Contact
-
-**Data Controller:**
-LBeastwood (operating as SIA RODLEN)
-Ģenerāļa Baloža iela 44D, Liepāja, LV–3402, Latvia
-
-**Support Email:** [zodico@rodlen.com](mailto:zodico@rodlen.com)
+**LBeastwood (SIA RODLEN)**  
+Ģenerāļa Baloža iela 44D, Liepāja, LV–3402, Latvia  
+**Email:** zodico@rodlen.com
 
 ## 2. Scope & Acceptance
-
-This Policy applies solely to personal data collected through the Zodico mobile application. By downloading or using the App, you acknowledge that you have read, understood, and agree to the collection and use of your information as described here. If you do not agree, please discontinue use and delete the App.
+This Policy applies to personal data processed via the App. If you disagree, please do not use the App and delete your account.
 
 ## 3. Age Restrictions
+Minimum age **13+** (or higher where required by law). We do not knowingly collect data from children under 13.
 
-* **Minimum Age:** Users must be at least **13 years old** to register and use Zodico.
-* **Under 16 (EU) / 18 (other territories):** In certain jurisdictions, additional parental consent may be required.
-  By using Zodico, you represent that you meet the minimum age for your jurisdiction.
+## 4. What We Collect
+- **Profile & Registration**: optional name, avatar; required date/time/place of birth (for personalization); email if using email sign‑in.  
+- **User Content & AI Inputs**: chat prompts, AI outputs, posts, comments, DMs, interactive attachments.  
+- **Usage & Analytics**: feature usage, session length, screens, crash logs.  
+- **Device/Technical**: device model, OS, app version, IP (may be truncated), language/locale, **Advertising Identifier** (IDFA/AAID).  
+- **Purchase Records**: product ID, term, timestamps (no card numbers; payments handled by Apple/Google).
 
-## 4. Information We Collect
+## 5. How We Use Data
+- **Provide the Service**: power AI conversations; enable posts/comments/DMs; interactive attachments; translations; moderation; subscriptions.  
+- **Personalize & Improve**: tailor content/features; debug and analyze usage.  
+- **Safety & Abuse Prevention**: automated **omni‑moderation**, keyword filters, rate‑limits; human admin review; fraud prevention.  
+- **Communications**: transactional messages (e.g., receipts, policy updates).  
+- **Advertising (if applicable)**: show ads via approved partners; you may limit ad tracking in device settings.
 
-### 4.1 Profile & Registration Data
+## 6. Legal Bases (EU/GDPR)
+- **Contract**: to deliver features you request (chat, UGC, subscriptions).  
+- **Legitimate Interests**: service security, analytics, anti‑abuse, improvement.  
+- **Consent**: where required for ads, certain analytics, or optional profile fields.
 
-* **Name** (optional)
-* **Date of Birth** (required for horoscope accuracy)
-* **Interests** (selected by you, e.g., mindfulness, love, career)
-* **Email Address** (if registering via email)
+## 7. Sharing & Processors (No Sale)
+We **do not sell** your personal data. We use processors to operate the App:
+- **OpenAI**: AI assistance, moderation, translations.  
+- **Google Firebase**: authentication, database/storage, analytics, crash reporting.  
+- **Apple/Google**: in‑app purchases, receipts.  
+- **[Add if used]** RevenueCat / Sentry / Cloud hosting providers.  
+Processors act under contracts and only as described here.
 
-> *Purpose:* Personalization of horoscopes, AI recommendations, account management.
+## 8. International Transfers
+Your data may be processed outside your country (e.g., EU/US). Where required, we use **Standard Contractual Clauses (SCCs)** or adequacy decisions to safeguard transfers.
 
-### 4.2 User Content & AI Inputs
+## 9. Retention & Deletion
+- We retain account and UGC while your account is active.  
+- You can delete your account in Settings; we delete or anonymize personal data within **30 days**, except where longer retention is required for legal or security reasons.  
+- Backups may persist for up to **90 days**.
 
-* **Chat Prompts & Questions** sent to the AI oracle
-* **Generated AI Responses** (stored so you can review past sessions)
+## 10. Your Rights
+- **EEA/UK**: access, rectification, erasure, restriction, objection, portability.  
+- **California**: know/access, delete, opt‑out of sale/sharing (we do not sell), non‑discrimination.  
+Request via **zodico@rodlen.com**; we may need to verify identity.
 
-> *Purpose:* To power AI features via OpenAI API and maintain your chat history.
+## 11. Sign in with Apple
+When you sign in with Apple, we receive an identifier and, if you consent on first use, your name/email (or Apple relay email). We **do not** require name/email immediately after Sign in with Apple; you can edit your profile later.
 
-### 4.3 Usage & Analytics Data
+## 12. Advertising & Tracking (if enabled)
+We may show ads via **AdMob** or similar. Partners may receive ad identifiers and contextual signals. You can limit ad tracking in device settings or opt for non‑personalized ads where available.
 
-* **App Usage Metrics:** session length, features used, screen views
-* **Crash Reports & Performance Logs**
+## 13. Security
+We use TLS in transit and industry‑standard controls (access controls, least privilege, monitoring). No method is 100% secure; we strive to protect your data.
 
-> *Purpose:* Improve App functionality and user experience.
-
-### 4.4 Device & Technical Data
-
-* **Advertising Identifier:** Google Advertising ID or Apple IDFA
-* **Device Model, OS Version, App Version**
-* **IP Address** (anonymized where required)
-* **Language & Locale Settings**
-
-> *Purpose:* Analytics, targeted ads, device compatibility, fraud prevention.
-
-## 5. How We Use Your Data
-
-1. **Provide & Personalize Services:** Generate horoscopes and AI-driven content based on your profile and inputs.
-2. **Analytics & Improvement:** Analyze usage trends to fix bugs and enhance features.
-3. **Advertising:** Display in-app ads through Google AdMob; serve personalized ads using your Advertising ID.
-4. **Authentication & Security:** Manage user accounts, prevent fraud, secure your data.
-5. **Communication:** Send transactional messages (e.g., subscription reminders, policy updates).
-
-## 6. Legal Bases for Processing (EU/GDPR)
-
-If you reside in the EU, we rely on the following legal bases:
-
-* **Consent:** For processing your profile data and AI-related inputs.
-* **Contract Performance:** To provide the features you request (e.g., chat sessions).
-* **Legitimate Interests:** For analytics, fraud prevention, and maintaining App security.
-
-## 7. Sharing & Disclosure
-
-We **do not sell** your personal data. We share data only with:
-
-* **OpenAI, Inc.:** To process chat prompts and generate AI responses.
-* **Google Firebase:** For authentication, database storage, analytics.
-* **Google Analytics (Firebase Analytics):** For usage reporting.
-* **Google AdMob:** To display ads and track ad performance.
-* **Apple App Store & Google Play:** To retain purchase records for subscription verification.
-* **Law Enforcement or Regulators:** When required by law (e.g., subpoena, court order) or to protect our rights.
-
-All third parties are bound by their own privacy policies and process data only as described here.
-
-## 8. Advertisements & Tracking
-
-Zodico integrates **Google AdMob** to display ads. AdMob may collect device and contextual data (via Advertising ID) to serve personalized ads. You may opt out of personalized advertising in your device’s settings by resetting or limiting ad tracking.
-
-## 9. In-App Purchases & Billing Data
-
-We use **Google Play Billing** and **Apple In-App Purchase** systems. We do **not** collect or store your payment details. Transaction records (purchase date, plan) are stored so we can manage your subscription. All purchases are final and non-refundable (see Terms & Conditions).
-
-## 10. Data Retention & Deletion
-
-* **Retention:** We retain your profile, chat history, and usage data for as long as your account is active.
-* **Deletion:** You may delete your account at any time in App Settings. Deletion will remove your personal data and AI history from active databases. Backup copies may persist for up to 90 days for legal compliance and fraud prevention before full erasure.
-
-## 11. Your Privacy Rights
-
-### 11.1 EU Data Subject Rights
-
-If you live in the EEA, you have the right to:
-
-* Access your data
-* Rectify inaccuracies
-* Erase data (“right to be forgotten”)
-* Restrict or object to processing
-* Data portability
-
-To exercise these rights, contact us at [zodico@rodlen.com](mailto:zodico@rodlen.com).
-
-### 11.2 California Consumer Rights (CCPA/CPRA)
-
-If you are a California resident, you have the right to:
-
-* Know what personal data we collect, use, share, or sell
-* Delete your personal data
-* Opt-out of the sale of your personal information (we do not sell your data)
-* Non-discrimination for exercising your rights
-
-Submit requests via email: [zodico@rodlen.com](mailto:zodico@rodlen.com). We will verify your identity before responding.
-
-## 12. Children’s Privacy
-
-We **do not knowingly** collect personal data from children under **13 years** of age. If you believe we have inadvertently collected data from a child under 13, please contact us; we will promptly delete such data.
-
-## 13. International Data Transfers
-
-Your data may be transferred to, and stored at, servers located outside your country (e.g., the U.S., EU, other regions). We implement Standard Contractual Clauses (SCCs) or rely on adequacy decisions where required to ensure adequate protection of your data.
-
-## 14. Security Measures
-
-We implement industry-standard technical and organizational measures, including:
-
-* TLS encryption in transit
-* AES-256 encryption at rest (where supported)
-* Access controls & authentication for our cloud services
-* Regular security audits and vulnerability assessments
-
-However, no system is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.
+## 14. Children
+We do not knowingly collect data from children under 13. If we learn we have, we will delete it promptly.
 
 ## 15. Changes to This Policy
+We may update this Policy. We will update the date above and notify you in‑app for material changes. Continued use after updates means you accept the revised Policy.
 
-We may update this Privacy Policy to reflect changes in our practices or legal requirements. When we do, we will revise the “Last Updated” date and notify you in the App or via email. Continued use after updates constitutes acceptance of the revised Policy.
-
-## 16. Contact Information
-
-If you have any questions, requests, or concerns, please reach out to us at:
-
-**LBeastwood (SIA RODLEN)**
-Ģenerāļa Baloža iela 44D
-Liepāja, LV–3402, Latvia
-**Email:** [zodico@rodlen.com](mailto:zodico@rodlen.com)
-
-Thank you for trusting Zodico with your data. We’re committed to keeping it safe and using it responsibly.
+## 16. Contacts
+**Privacy:** zodico@rodlen.com  
+**Moderation:** moderation@rodlen.com  
+**Postal:** LBeastwood (SIA RODLEN), Ģenerāļa Baloža iela 44D, Liepāja, LV–3402, Latvia
